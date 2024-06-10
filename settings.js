@@ -1,31 +1,31 @@
 
 const fs = require('fs')
 const chalk = require('chalk')
-global.ytname = "@fenix_programmer"
+global.ytname = "@mr.nadun"
 global.socialm = "GitHub: BotDevilLozan"
 global.location = "srilanka, colombo, whaththla"
 global.botname = 'Godfather'
-global.ownernumber = '94773010580'
-global.ownername = 'Fenix id'
-global.websitex = "https://youtube.com/@fenix_programmer?si=wiTuE9uPy9rCRciq"
-global.wagc = "https://whatsapp.com/channel/0029VaV2xYy72WTw8ERfJE2w"
-global.themeemoji = '🪀'
+global.ownernumber = '94760405102'
+global.ownername = 'mr.nadun'
+global.websitex = "http://ghost-md.vercel.app/"
+global.wagc = " "
+global.themeemoji = '☘'
 global.wm = "Godfather By Fenix Id."
-global.botscript = 'https://github.com/Fenixid-server/Mr.-Robot' 
+global.botscript = 'https://github.com/Nadunsl/Mr.-Robot' 
 global.packname = "Itz"
-global.author = "Godfather"
-global.creator = "94773010580@s.whatsapp.net"
+global.author = "Mr.Nadun"
+global.creator = "94760405102@s.whatsapp.net"
 global.xprefix = '.'
-global.premium = ["94773010580"]
+global.premium = ["94760405102"]
 global.hituet = 0
 global.typemenu = 'v12'
 global.typereply = 'v4' 
 global.autoblocknumber = '92' 
 global.antiforeignnumber = '91'
-global.welcome = false 
+global.welcome = true
 global.anticall = true
 global.autoswview = true 
-global.groupevent = false 
+global.groupevent = true
 global.mess = {
 	limit: 'Your limit is up!',
 	nsfw: 'Nsfw is disabled in this group, Please tell the admin to enable',
